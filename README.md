@@ -1,5 +1,5 @@
 # Forecasting-Inflation
-Seminar: Forecasting in a Data-Rich Environment
+Forecasting in a Data-Rich Environment (python code)
 
 
 ## References
